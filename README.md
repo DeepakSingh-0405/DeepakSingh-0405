@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I'm Deepak Singh<br>-🎓 First-Year B.Tech CSE Student | Aspiring Software Developer<br>-💻 Learning C, Python, and Web Development<br>-🌱 Currently exploring Data Structures, Git, and Open Source<br>-🔧 Building small projects to sharpen my skills<br>-📚 Passionate about tech, coding, and solving real-world problems<br>-📫 Connect with me: www.linkedin.com/in/deepaksingh0405 | deepaksingh64630@gmail.com
+-👋 Hi, I'm Deepak Singh<br>-🎓 B.Tech CSE Student | Aspiring Software Developer<br>-💻 Learning C, Python, and Web Development<br>-🌱 Currently exploring Data Structures, Git, and Open Source<br>-🔧 Building small projects to sharpen my skills<br>-📚 Passionate about tech, coding, and solving real-world problems<br>-📫 Connect with me: www.linkedin.com/in/deepaksingh0405 | deepaksingh64630@gmail.com
 
 
 ## 🌐 Socials:
