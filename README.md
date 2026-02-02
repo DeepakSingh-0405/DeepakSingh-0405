@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I'm Deepak Singh<br>-🎓 B.Tech CSE Student | Aspiring Software Developer<br>-💻 Learning C, Python, and Web Development<br>-🌱 Currently exploring Data Structures, Git, and Open Source<br>-🔧 Building small projects to sharpen my skills<br>-📚 Passionate about tech, coding, and solving real-world problems<br>-📫 Connect with me: www.linkedin.com/in/deepaksingh0405 | deepaksingh64630@gmail.com
+-👋 Hi, I'm Deepak Singh<br>-🎓 B.Tech CSE Student | Aspiring Software Developer<br>-💻 C++, Python, and Web Development<br>-🌱 Currently exploring Data Structures, Git, and Open Source<br>-🔧 Building small projects to sharpen my skills<br>-📚 Passionate about tech, coding, and solving real-world problems<br>-📫 Connect with me: www.linkedin.com/in/deepaksingh0405 | deepaksingh64630@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepakSingh-0405&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
